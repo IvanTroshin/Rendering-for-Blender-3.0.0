@@ -1,4 +1,4 @@
-## blender-3.0.0
+## Blender-3.0.0
 #I corrected the code for the new version blender-3.0.0
 
 #Replace with High RAM Renderer (Image).ipynb
